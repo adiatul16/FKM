@@ -1,0 +1,5 @@
+CHANGELOG:
+* Linux Upstreams to v4.4.253
+* Built with Clang 12.0.2
+* Fix energy costs for SDM660
+* Adjust haptics frequency
